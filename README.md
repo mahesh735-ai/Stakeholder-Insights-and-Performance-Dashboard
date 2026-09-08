@@ -83,22 +83,21 @@ A fictional insurance company needs one consolidated view of premium performance
 ## 📁 Repository Structure
 
 ```
-stakeholder-insights-tableau-dashboard/
+## 📁 Repository Structure
+
+```text
+Stakeholder-Insights-and-Performance-Dashboard/
 │
-├── README.md                                          ← you are here
-├── Tableau_Dashboard_project.twb                       ← Tableau workbook (source file)
-├── Finance_record.xlsx                                 ← source dataset
+├── README.md
+├── Tableau_Dashboard_project.twb
+├── Finance_record.xlsx
 │
 ├── docs/
-│   ├── Refined_BRD.docx                                ← Business Requirement Document
-│   ├── Refined_User_Guide.docx                         ← User Guide
-│   └── Tableau_Project_Revision_Notes.pdf              ← build notes / self-revision doc
-│
-├── exports/
-│   └── Stakeholder_Insights_and_Performance_Dashboard_downloaded.pdf   ← static PDF export
+│   ├── BRD.docx
+│   └── User_Guide.docx
 │
 └── assets/
-    └── dashboard-preview.png                           ← dashboard screenshot for this README
+    └── Dashboard.png
 ```
 
 ---
