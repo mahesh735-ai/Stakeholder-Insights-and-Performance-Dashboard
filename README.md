@@ -13,13 +13,13 @@ Interactive Tableau dashboard analysing insurance stakeholder premium trends, pr
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/Dashboard.png)
 
 > 📄 A static PDF export is also included: [`Stakeholder_Insights_and_Performance_Dashboard.pdf`](Stakeholder_Insights_and_Performance_Dashboard_downloaded.pdf)
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project simulates a **real-world BI project lifecycle** end-to-end — not just building charts, but following the same Requirement → Data → Build → Test → Document workflow used on client engagements:
 
