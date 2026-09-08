@@ -15,7 +15,7 @@ Interactive Tableau dashboard analysing insurance stakeholder premium trends, pr
 
 ![Dashboard Preview](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/Dashboard.png)
 
-> 📄 A static PDF export is also included: [`Stakeholder_Insights_and_Performance_Dashboard.pdf`](Stakeholder_Insights_and_Performance_Dashboard_downloaded.pdf)
+> 📄 A static PDF export is also included: [`Stakeholder_Insights_and_Performance_Dashboard.pdf`](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/BRD.docx)
 
 ---
 
@@ -31,7 +31,7 @@ This project simulates a **real-world BI project lifecycle** end-to-end — not 
 
 ## 🎯 Business Context (Simulated)
 
-A fictional insurance company needs one consolidated view of premium performance, profitability, and shareholding/stakeholder structure to support leadership decisions — the full requirement is documented in [`Refined_BRD.docx`](Refined_BRD.docx).
+A fictional insurance company needs one consolidated view of premium performance, profitability, and shareholding/stakeholder structure to support leadership decisions — the full requirement is documented in [`Refined_BRD.docx`](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/BRD.docx).
 
 ---
 
