@@ -82,10 +82,7 @@ A fictional insurance company needs one consolidated view of premium performance
 
 ## 📁 Repository Structure
 
-```
-## 📁 Repository Structure
-
-```text
+``` text
 Stakeholder-Insights-and-Performance-Dashboard/
 │
 ├── README.md
