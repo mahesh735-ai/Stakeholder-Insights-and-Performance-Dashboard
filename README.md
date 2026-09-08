@@ -15,8 +15,7 @@ Interactive Tableau dashboard analysing insurance stakeholder premium trends, pr
 
 ![Dashboard Preview](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/Dashboard.png)
 
-> 📄 A static PDF export is also included: [`Stakeholder_Insights_and_Performance_Dashboard.pdf`](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/BRD.docx)
-
+> 📄 A static PDF export is also included: [`Stakeholder_Insights_and_Performance_Dashboard.pdf`](https://github.com/mahesh735-ai/Stakeholder-Insights-and-Performance-Dashboard/blob/main/User_Guide.docx)
 ---
 
 ##  Overview
